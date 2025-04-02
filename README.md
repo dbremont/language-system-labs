@@ -16,9 +16,11 @@
 - ...
 
 TODO:
+
 - Language Profile
   - System Extention
   - Link to Profile
 - Models of Computations
 - Software Design Ideas Exploration
+- Decompilers
 - etc.

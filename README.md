@@ -14,3 +14,11 @@
 - x86
 - Rust
 - ...
+
+TODO:
+- Language Profile
+  - System Extention
+  - Link to Profile
+- Models of Computations
+- Software Design Ideas Exploration
+- etc.

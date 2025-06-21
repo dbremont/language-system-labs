@@ -13,6 +13,7 @@
   - Virtual Machine,
   - Debugger,
   - Decompilers,
+  - Langauge Server,
   - etc
 
 ### 🧬 Languages

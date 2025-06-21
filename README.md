@@ -5,6 +5,7 @@
 ## 🧭 Guia Mayor
 
 - **Study Specific Languages**: Explore syntax, semantics, idioms, and ecosystems.
+- **Study Programs**: See how people are using a specific language; and which abstractions they employ.
 - **Study Models of Computation**: Analyze formal models like finite automata, Turing machines, and lambda calculus.
 - **Study Specific Libraries and Language Tools**:  Investigate compilers, runtimes, standard libraries, and metaprogramming facilities.
 - **Study Languge Systems Technology**: Dive into the components that make language systems work:

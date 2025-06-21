@@ -48,6 +48,10 @@ typedef struct cell *pointer;
 - `opexe_0`
 - `Eval_Cycle`
 
+## TODO
+
+- Note: This is just the begining my undestand of the code is very low.
+
 ## References
 
 - [minischeme](https://github.com/catseye/minischeme)

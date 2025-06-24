@@ -62,3 +62,5 @@
 
 - [FFmpeg](https://ffmpeg.org/)
 - [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg)
+- https://github.com/FFmpeg/FFmpeg/blob/master/fftools/ffplay.c
+- https://github.com/FFmpeg/FFmpeg

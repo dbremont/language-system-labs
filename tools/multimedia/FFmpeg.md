@@ -61,3 +61,4 @@
 ## References
 
 - [FFmpeg](https://ffmpeg.org/)
+- [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg)

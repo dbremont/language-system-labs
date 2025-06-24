@@ -22,6 +22,13 @@
 | **Extensibility** | Filter graphs, plugin-style architecture via libavfilter |
 | **Community** | Large open-source community; many downstream projects (e.g., VLC, OBS Studio) |
 
+## Install
+
+```bash
+sudo apt update
+sudo apt install ffmpeg libavcodec-dev libavformat-dev libavutil-dev libswscale-dev libavfilter-dev libavdevice-dev
+```
+
 ## Core Components
 
 > …

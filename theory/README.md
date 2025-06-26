@@ -31,7 +31,15 @@ Just as a program is an underlying rule that drives the computation, the laws of
 
 ## Models of Computation
 
-...
+> ...
+
+### Concurrency Model of Computation
+
+> ...
+
+### Parallel Model of Computation
+
+> ...
 
 ## 📚 References
 
